@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/001.png</file>
+        <file>images/002.png</file>
+        <file>images/003.png</file>
+        <file>images/004.png</file>
+        <file>images/005.png</file>
+        <file>images/006.png</file>
+        <file>images/007.png</file>
+        <file>images/008.png</file>
+        <file>images/009.png</file>
+        <file>images/10.png</file>
+        <file>images/111.png</file>
+        <file>images/112.png</file>
+        <file>images/113.png</file>
+        <file>images/114.png</file>
+        <file>images/alm.ico</file>
+        <file>images/Chelion.png</file>
+        <file>images/close.png</file>
+        <file>images/E.png</file>
+        <file>images/err.ico</file>
+        <file>images/fuwei.png</file>
+        <file>images/guanji.png</file>
+        <file>images/jstop.png</file>
+        <file>images/kaiji.png</file>
+        <file>images/noalm.png</file>
+        <file>images/noE.png</file>
+        <file>images/noerr.png</file>
+        <file>images/nojstop.png</file>
+        <file>images/noover.png</file>
+        <file>images/open.png</file>
+        <file>images/over.png</file>
+        <file>images/qidong.png</file>
+        <file>images/run.ico</file>
+        <file>images/stop.png</file>
+        <file>images/stopB.png</file>
+        <file>images/stopQ.png</file>
+        <file>images/switch_off.png</file>
+        <file>images/switch_on.png</file>
+        <file>images/zanting.png</file>
+        <file>images/netfault.png</file>
+        <file>images/netok.png</file>
+    </qresource>
+</RCC>
